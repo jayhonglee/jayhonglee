@@ -1,4 +1,8 @@
-### Hi there 👋
+### 👋 Hi there!
+
+I'm Jaehong Lee (Jay), a Computer Engineering student passionate about technology and innovation. Welcome to my GitHub space, where I explore, code, and learn. Let's connect and create something awesome together!
+
+🚀 Keep exploring, keep coding!
 
 <!--
 **jayhonglee/jayhonglee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
