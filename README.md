@@ -1,4 +1,4 @@
-# Hi, I'm Jaehong (Jay) Lee 👋 👨‍💻
+# Hi, I'm Jay 👋 👨‍💻
 
 ![insert some_code here (2)](https://github.com/user-attachments/assets/d7176146-8e15-425b-89b0-5062473d6a21)
 
