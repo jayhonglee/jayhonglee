@@ -15,8 +15,8 @@ I'm a Software Engineer with a passion for designing scalable, efficient, and us
          src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
          alt="arduino"
          width="40"
-         height="40" /></a
-   ><a href="https://babeljs.io/" target="_blank" rel="noreferrer">
+         height="40" />
+   </a><a href="https://babeljs.io/" target="_blank" rel="noreferrer">
       <img
          src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
          alt="babel"
