@@ -5,7 +5,7 @@
 I'm a Software Engineer with a passion for designing scalable, efficient, and user-centric solutions. Guided by my core values—Solving Problems, Creating Value, and Delivering Impact—I’ve made significant contributions to high-impact applications over the past years in industry. I tackle complex challenges using data and innovative technology, focus on solving pain points to deliver systems that make lives easier, and strive to enhance user experiences, streamline operations, and drive measurable growth. Through optimizing both front-end and back-end systems, I aim to deliver solutions that are both impactful and efficient.
 
 ## Tech Stack & Tools 🚀:
-<p align="left">
+<div style="display:flex; gap:10px; background:red;">
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer" style="display: inline-block">
         <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />
     </a>
@@ -171,4 +171,4 @@ I'm a Software Engineer with a passion for designing scalable, efficient, and us
     <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg" alt="electron" width="40" height="40" />
     </a>
-</p>
+</div>
