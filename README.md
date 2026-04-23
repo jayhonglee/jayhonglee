@@ -61,4 +61,5 @@ I'm a Software Engineer with a passion for designing scalable, efficient, and us
     <a href="https://socket.io" target="_blank" rel="noreferrer"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Socket-io.svg" alt="socket.io" width="40px" height="40px" /></a>
     <a href="https://jwt.io/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" alt="jwt" width="40px" height="40px" /></a>
     <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg" alt="electron" width="40px" height="40px" /></a>
+    <a href="https://aws.amazon.com/?nc2=h_home&trk=65b90da3-fee6-483c-97a7-4a920c6c64dd&sc_channel=ps" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40px" height="40px" /></a>
 </div>
